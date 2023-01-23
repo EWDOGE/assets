@@ -188,6 +188,17 @@
         "tags": [
             "bridged"
         ]
+    },
+    {
+        "chainId": 246,
+        "address": "0xb3251487D8421E8506187B88B31230E2f69fF050",
+        "name": "Carbon Credits — sootopia.cc",
+        "decimals": 18,
+        "symbol": "CC",
+        "logoURI": "https://s.sootopia.cc/img/coal.svg",
+        "tags": [
+            "native"
+        ]
     }
   ]
 }
